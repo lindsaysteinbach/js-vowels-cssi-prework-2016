@@ -2,3 +2,4 @@ languages:
   - javascript
 tags:
   - conditionals
+resources: 1
