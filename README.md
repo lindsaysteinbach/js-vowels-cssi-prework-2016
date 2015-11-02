@@ -4,7 +4,7 @@
 
 ## Objective
 
-Create a function `isAVowel` that accepts one argument, a letter. If the letter is a vowel (a, e, i, o, or u), the function shoulw return true. If not, it should return false.
+Create a function `isAVowel` that accepts one argument, a letter. If the letter is a vowel (a, e, i, o, or u), the function should return true. If not, it should return false.
 
 For the purposes of this lab, you can choose to do what you will with the letter `y`. The test suite is indifferent to it.
 
