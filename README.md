@@ -32,3 +32,5 @@ Open index.html and use the form to check your code. Remember to refresh the pag
 ## Resources
 
 * [Stack Overflow](http://stackoverflow.com/) - [What does javascript function return in the absence of a return statement?](http://stackoverflow.com/a/1557759/2890716)
+
+<a href='https://learn.co/lessons/js-vowels' data-visibility='hidden'>View this lesson on Learn.co</a>
